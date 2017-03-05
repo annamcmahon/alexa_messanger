@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "SendMessage",
+      "slots": [
+        {
+          "name": "Reciever",
+          "type": "AMAZON.US_FIRST_NAME"
+        }, 
+        {
+          "name": "Message",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    }
+  ]
+}
