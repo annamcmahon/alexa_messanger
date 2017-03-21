@@ -1,6 +1,6 @@
 {
   "name": "go",
   "description": "Go project to send twilio text, triggered by lambda",
-  "role": "arn:aws:iam::703378707126:role/service-role/myRole",
+  "role": "arn:aws:iam::703378707126:role/service-role/sender",
   "region": "us-east-1"
 }
